@@ -16,8 +16,10 @@ Use for loop to append the values into the list created.
 ### Step 5:
 Print the product of two arrays.
 
-## PROGRAM: 
+## PROGRAM:
 ``` python
+Developed by: SASI RAJ KUMAR T J
+RegisterNumber: 22005240
 import numpy as np
 l1,l2=[],[]
 n= int(input())
